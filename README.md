@@ -5,6 +5,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&center=true&vCenter=true&width=435&height=200&lines=Front-End+Developer;I'm+currently+learning+backend" alt="Typing SVG" /></a>
   </p>
  <a href="https://app.daily.dev/DailyDevTips">
-    <img src="https://github.com/M-creed/M-creed/blob/main/devcard.svg" margin-left: auto;
-  margin-right: auto;  width=600; alt="Chris Bongers's Dev Card" "/>
+   <p align="center">
+    <img src="https://github.com/M-creed/M-creed/blob/main/devcard.svg" width=200px; alt="Chris Bongers's Dev Card" "/>
+   </p>
   </a>
+  

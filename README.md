@@ -6,5 +6,5 @@
   </p>
  <a href="https://app.daily.dev/DailyDevTips">
     <img src="https://github.com/M-creed/M-creed/blob/main/devcard.svg" margin-left: auto;
-  margin-right: auto;  width=100; alt="Chris Bongers's Dev Card" "/>
+  margin-right: auto;  width=600; alt="Chris Bongers's Dev Card" "/>
   </a>

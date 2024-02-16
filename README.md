@@ -5,3 +5,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&center=true&vCenter=true&width=435&height=200&lines=Front-End+Developer;I'm+currently+learning+backend" alt="Typing SVG" /></a> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/M-creed/M-creed/blob/main/devcard.svg" width=200px; alt="Chris Bongers's Dev Card" "/></a>
 
   </p>
+<a href="https://app.daily.dev/creed"><img src="https://api.daily.dev/devcards/v2/a2GyIa9ZQB1iQ6xtAuwsj.png?r=4c9&type=default" width="356" alt="Marwan Mostafa Abdullah's Dev Card"/></a>
